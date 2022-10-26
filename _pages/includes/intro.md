@@ -3,4 +3,4 @@ Hi! I am currently a graduate research assistant at the [School of Mechanical Sc
 
 My research interest broadly lies in optimization- and learning-based algorithms on **decision making** and **motion planning**, such as Evolutionary Computation (EC) and Reinforcement Learning (RL), as well as their promising applications for the operation of future autonomous mobility systems enabled by **Connected and Automated Vehicles**.
 
-I am looking for a **Ph.D.** position for **Fall 2023** intake. If there is a potential research opportunity in your lab, I would appreciate the change to communicate with you and provide more detailed information about my research.
+I am looking for a **Ph.D.** position for **Fall 2023** intake. If there is a potential research opportunity in your lab, I would appreciate the chance to communicate with you and provide more detailed information about my research.
