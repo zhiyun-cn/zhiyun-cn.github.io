@@ -21,6 +21,6 @@ redirect_from:
 
 {% include_relative includes/others.md %}
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=XexuXiav0u0cvGfysDvYEa-ufQh4YHyEQuNVUGYmr8w"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5icvxxu50iw&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;bv=50" async="async"></script>
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zJnYQw21kIHNuD_BAOwnS1HgCvIuFne1NtSCE06oThs&cl=ffffff&w=a"></script> -->
