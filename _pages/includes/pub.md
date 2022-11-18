@@ -21,8 +21,8 @@
 
 ## Dissertations
 
-- [7] **Zhiyun Deng**, Collaborative Control of Multi-Vehicle Systems at Autonomous Intersections without Signal Controllers (in Chinese), Huazhong University of Science and Technology, 2022. [[pdf](https://drive.google.com/file/d/1Aur_rO9KAjpYx-eI449DpAnd15ybJ_T7/view?usp=sharing)]
-- [8] **Zhiyun Deng**, Autonomous Intersection Management with Connected and Automated Vehicles (in Chinese), Wuhan University of Technology, 2020, **Outstanding Graduate Dissertation Award** (Top 1%).
+- [8] **Zhiyun Deng**, Collaborative Control of Multi-Vehicle Systems at Autonomous Intersections without Signal Controllers (in Chinese), Huazhong University of Science and Technology, 2022. [[pdf](https://drive.google.com/file/d/1Aur_rO9KAjpYx-eI449DpAnd15ybJ_T7/view?usp=sharing)]
+- [9] **Zhiyun Deng**, Autonomous Intersection Management with Connected and Automated Vehicles (in Chinese), Wuhan University of Technology, 2020, **Outstanding Graduate Dissertation Award** (Top 1%).
 
 # 📚 Projects
 

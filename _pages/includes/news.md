@@ -1,9 +1,6 @@
 # 🔥 News
-- *2022.09*: Three papers are accepted by NeurIPS 2022!
-- *2022.06*: Three papers are accepted by ACM-MM 2022!
-- *2022.05*: I join [Sea AI Lab](https://sail.sea.com/) <img src='./images/logo-sea-header-desktop.webp' style='width: 6em;'> as the audio team leader. We are [hiring researchers and engineers](https://career.sea.com/position/427)!
-- *2022.04*: Three papers are accepted by IJCAI 2022
-- *2022.03*: We release [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB), the code of our ACL 2022 work (singing voice beautifying). 🚧 ⛏️ 🛠️ 👷 
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
-- *2022.02*: 🎉🎉 Two papers are accepted by ACL 2022
-- *2022.02*: 🎉🎉 My [google scholar](https://scholar.google.com/citations?user=4FA6C0AAAAAJ) citations have exceeded 1000!
+- *2022.10*: My team create and release a WikiPage on the topic of Reinforcement Learning for Transportation Research [[Link](http://wiki.rl-transport.org/index.php/Main_Page)]. I am responsible for the chapter of Intelligent Transportation Systems.
+- *2022.09*: One paper submitted to IEEE Transactions on Intelligent Transportation System is available in TechRxiv.
+- *2022.08*: One paper is accepted by IEEE Transactions on Vehicular Technology!
+- *2022.07*: My team win the IEEE CEC 2022 Competition (Layout Optimization Track)!
+- *2022.06*: I graduate from HUST and receive my Master's degree now!
