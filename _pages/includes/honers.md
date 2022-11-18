@@ -1,6 +1,8 @@
 # 🎖 Honor and Awards
 - [*2022.07*] **Winner** (Top 1), IEEE Congress on Evolutionary Computation (CEC 2022) Competition on Heat Pipe-Constrained Component Layout Optimization, IEEE Computational Intelligence Society
 - [*2021.12*] **National Scholarship** (Top 1%), Ministry of Education of China
+- [*2021.11*] **First-Class Scholarship**, Huazhong University of Science and Technology
 - [*2021.04*] **Postgraduate Innovation Fund**, Huazhong University of Science and Technology
+- [*2020.11*] **First-Class Scholarship**, Huazhong University of Science and Technology
 - [*2018.11*] **National First Prize** (Top 1%), Undergraduate Mathematical Contest in Modeling, Ministry of Education of China
 - [*2018.04*] **Undergraduate Innovation Fund**, Wuhan University of Technology
