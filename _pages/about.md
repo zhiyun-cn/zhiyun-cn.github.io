@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 
-<!-- {% include_relative includes/news.md %} -->
+{% include_relative includes/news.md %}
 
 {% include_relative includes/pub.md %}
 
@@ -23,3 +23,4 @@ redirect_from:
 
 <p hidden>
     <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=XexuXiav0u0cvGfysDvYEa-ufQh4YHyEQuNVUGYmr8w&co=b2dfff&ct=ffffff&cmo=93a4e0&cmn=001aff'></script>
+
