@@ -2,6 +2,21 @@
 # 📝 Publications
 ## Preprint
 
+## 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/TITS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Zhiyun Deng**, Kaidi Yang, Weiming Shen and Yanjun Shi, [Cooperative Platoon Formation of Connected and Autonomous Vehicles: Towards Efficient Merging Coordination at Unsignalized Intersections](http://dx.doi.org/10.36227/techrxiv.21152128.v1)
+
+IEEE Transactions on Intelligent Transportation Systems (**IEEE TITS**). Under Review. [[pdf](https://drive.google.com/file/d/1oKjgK0-DlAXzzMre9kSWRE2R9v57gIy1/view?usp=sharing)]
+
+-  We propose an end-to-end differentiable framework that integrates prediction and planning modules and is able to learn the cost function from data.
+   </div>
+   </div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/TITS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
