@@ -34,6 +34,18 @@
 - [6] Shichen Tian, **Zhiyun Deng**, Jiaxin Fan, Chunjiang Zhang, Liang Gao and Weiming Shen, A Variable Neighborhood Search Algorithm for Heat Pipe-Constrained Component Layout Optimization. **To be submitted.**
 - [7] Xianfeng Ye, **Zhiyun Deng**, Yanjun Shi and Weiming Shen, Towards Energy-Efficient Scheduling and Routing of Multiple AGVs with Multi-Agent Reinforcement Learning. **Submitted** to the 4th International Conference on Industry 4.0 and Smart Manufacturing (**ISM 2022**). **Under Review**.
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/multimodal.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Multi-modal sensor fusion-based deep neural network for end-to-end autonomous driving with scene understanding](https://arxiv.org/abs/2005.09202), **Zhiyu Huang**, Chen Lv, Yang Xing, Jingda Wu
+
+**IEEE Sensors Journal, 2020**
+
+- We propose a novel deep neural network-based system for end-to-end autonomous driving, consisting of multimodal sensor fusion, scene understanding, and conditional driving policy modules. 
+  </div>
+  </div>
+
 ## Dissertations
 
 - [8] **Zhiyun Deng**, Collaborative Control of Multi-Vehicle Systems at Autonomous Intersections without Signal Controllers (in Chinese), Huazhong University of Science and Technology, 2022. [[pdf](https://drive.google.com/file/d/1Aur_rO9KAjpYx-eI449DpAnd15ybJ_T7/view?usp=sharing)]
