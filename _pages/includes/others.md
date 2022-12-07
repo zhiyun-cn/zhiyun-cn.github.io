@@ -9,23 +9,23 @@
 
 # 📚 Professional Services
 
-**Reviewer:**
+### **Reviewer:**
 
 - IEEE Transactions on Vehicular Technology 2022 – present
 - SAE WCX™ 2022 - present
 
 - IEEE CSCWD 2021 - 2022
 
-**Memberships**
+### Memberships
 
 - IEEE Student Member, 2020 - present
 - SAE Student Member, 2020 - present
 
-**Teaching Assistant:**
+### **Teaching Assistant:**
 
 - Electronic Circuit Design and Simulation, Huazhong University of Science and Technology, 2020 – 2022
 
-**Volunteer of Academic Journal:**
+### **Volunteer of Academic Journal:**
 
 -  IET Collaborative Intelligent Manufacturing, 2019 - present. Lead a cross-functional team to disseminate scientific advancements on social media (total views exceeds 30,000).
 
