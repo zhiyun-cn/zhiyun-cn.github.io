@@ -5,7 +5,11 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TASE</div><img src='images/TASE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
+[1] [Cooperative Platoon Formation of Connected and Autonomous Vehicles: Towards Efficient Merging Coordination at Unsignalized Intersections](http://dx.doi.org/10.36227/techrxiv.21152128.v1). **Zhiyun Deng**, Kaidi Yang, Weiming Shen and Yanjun Shi.
+
 **Zhiyun Deng**, Yanjun Shi and Weiming Shen, LiDAR-based End-to-End Autonomous Driving at Unsignalized Intersections: Improving Generalization with Multi-Task Deep Reinforcement Learning. **To be Submitted**.
+</div></div>
 
 
 
@@ -25,12 +29,16 @@ IEEE Transactions on Intelligent Transportation Systems (**IEEE TITS**). Under R
 
  IEEE Transactions on Vehicular Technology (**IEEE TVT**), 2022. [[pdf](https://drive.google.com/file/d/1SnhpVhkC7lbDXgH7hu3b5DdUolukAoS2/view?usp=sharing)]
 
+</div></div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appied Sciences</div><img src='images/AS.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3] **Zhiyun Deng**, Yanjun Shi, Qiaomei Han, Lingling Lv and Weiming Shen, [A Conflict Duration Graph-based Coordination Method for Connected and Automated Vehicles at Signal-Free Intersections](https://doi.org/10.3390/app10186223), **Applied Sciences**, 2020. [[pdf](https://drive.google.com/file/d/1bFJmYz6Lu616sU3As0XPJLELV5BxnAf7/view?usp=sharing)]
+
+</div></div>
 
 
 
