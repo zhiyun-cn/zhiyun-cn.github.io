@@ -30,6 +30,10 @@
 
 - [3] **Zhiyun Deng**, Yanjun Shi, Qiaomei Han, Lingling Lv and Weiming Shen, [A Conflict Duration Graph-based Coordination Method for Connected and Automated Vehicles at Signal-Free Intersections](https://doi.org/10.3390/app10186223), **Applied Sciences**, 2020. [[pdf](https://drive.google.com/file/d/1bFJmYz6Lu616sU3As0XPJLELV5BxnAf7/view?usp=sharing)]
 
+  </div></div>
+
+
+
 ## Conference Paper
 
 - [4] **Zhiyun Deng**, Jiaxin Fan, Yanjun Shi and Weiming Shen, [Longitudinal Trajectory Optimization for Connected and Automated Vehicles by Evolving Cubic Splines with Coevolution](https://doi.org/10.1109/CSCWD54268.2022.9776058), IEEE 25th International Conference on Computer Supported Cooperative Work in Design (**IEEE CSCWD 2022**). [[pdf](https://drive.google.com/file/d/1KgleS-gtURu1VIos0_lyaJ0HwEI3lly1/view?usp=sharing)]
