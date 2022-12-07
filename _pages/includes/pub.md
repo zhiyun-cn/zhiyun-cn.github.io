@@ -7,12 +7,18 @@
 
 - [1] **Zhiyun Deng**, Kaidi Yang, Weiming Shen and Yanjun Shi, [Cooperative Platoon Formation of Connected and Autonomous Vehicles: Towards Efficient Merging Coordination at Unsignalized Intersections](http://dx.doi.org/10.36227/techrxiv.21152128.v1), IEEE Transactions on Intelligent Transportation Systems (**IEEE TITS**). Under Review. [[pdf](https://drive.google.com/file/d/1oKjgK0-DlAXzzMre9kSWRE2R9v57gIy1/view?usp=sharing)]
 
-​		</div>
-​		</div>
+
 
 ## Journal Papers
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/TITS.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
 - [2] **Zhiyun Deng**, Jiaxin Fan, Yanjun Shi and Weiming Shen, [A Coevolutionary Algorithm for Cooperative Platoon Formation of Connected and Automated Vehicles](https://doi.org/10.1109/TVT.2022.3196366), IEEE Transactions on Vehicular Technology (**IEEE TVT**), 2022. [[pdf](https://drive.google.com/file/d/1SnhpVhkC7lbDXgH7hu3b5DdUolukAoS2/view?usp=sharing)]
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/TASE.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
 - [3] **Zhiyun Deng**, Yanjun Shi, Qiaomei Han, Lingling Lv and Weiming Shen, [A Conflict Duration Graph-based Coordination Method for Connected and Automated Vehicles at Signal-Free Intersections](https://doi.org/10.3390/app10186223), **Applied Sciences**, 2020. [[pdf](https://drive.google.com/file/d/1bFJmYz6Lu616sU3As0XPJLELV5BxnAf7/view?usp=sharing)]
 
 ## Conference Paper
@@ -20,6 +26,9 @@
 - [4] **Zhiyun Deng**, Jiaxin Fan, Yanjun Shi and Weiming Shen, [Longitudinal Trajectory Optimization for Connected and Automated Vehicles by Evolving Cubic Splines with Coevolution](https://doi.org/10.1109/CSCWD54268.2022.9776058), IEEE 25th International Conference on Computer Supported Cooperative Work in Design (**IEEE CSCWD 2022**). [[pdf](https://drive.google.com/file/d/1KgleS-gtURu1VIos0_lyaJ0HwEI3lly1/view?usp=sharing)]
 
 ## Ongoing Papers
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/TASE.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 
 - [5] **Zhiyun Deng**, Yanjun Shi and Weiming Shen, LiDAR-based End-to-End Autonomous Driving at Unsignalized Intersections: Improving Generalization with Multi-Task Deep Reinforcement Learning. **To be Submitted**.
 - [6] Shichen Tian, **Zhiyun Deng**, Jiaxin Fan, Chunjiang Zhang, Liang Gao and Weiming Shen, A Variable Neighborhood Search Algorithm for Heat Pipe-Constrained Component Layout Optimization. **To be submitted.**
