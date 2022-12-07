@@ -1,4 +1,4 @@
-# 🎖 Honor and Awards
+# 🏆 Honor and Awards
 
 Competitions:
 
