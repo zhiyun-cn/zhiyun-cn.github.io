@@ -7,6 +7,9 @@
 
 - [1] **Zhiyun Deng**, Kaidi Yang, Weiming Shen and Yanjun Shi, [Cooperative Platoon Formation of Connected and Autonomous Vehicles: Towards Efficient Merging Coordination at Unsignalized Intersections](http://dx.doi.org/10.36227/techrxiv.21152128.v1), IEEE Transactions on Intelligent Transportation Systems (**IEEE TITS**). Under Review. [[pdf](https://drive.google.com/file/d/1oKjgK0-DlAXzzMre9kSWRE2R9v57gIy1/view?usp=sharing)]
 
+​		</div>
+​		</div>
+
 ## Journal Papers
 
 - [2] **Zhiyun Deng**, Jiaxin Fan, Yanjun Shi and Weiming Shen, [A Coevolutionary Algorithm for Cooperative Platoon Formation of Connected and Automated Vehicles](https://doi.org/10.1109/TVT.2022.3196366), IEEE Transactions on Vehicular Technology (**IEEE TVT**), 2022. [[pdf](https://drive.google.com/file/d/1SnhpVhkC7lbDXgH7hu3b5DdUolukAoS2/view?usp=sharing)]
