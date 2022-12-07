@@ -67,12 +67,18 @@ IEEE Transactions on Vehicular Technology (**IEEE TVT**), 2022. [[pdf](https://d
 
 # 📚 Projects
 
-*2022.07 – present*, **Ferry Vehicle Scheduling at the Hangzhou International Airport**
+*2022.07 – 2022.12*, **Dynamic Routing and Scheduling of Airport Ground Traffic at Hangzhou International Airport**
 
-- Serve as the project coordinator and lead the effort of developing efficient scheduling algorithms
-- Jointly optimize the task assignment, route planning, and charging decision schemes of airport ground vehicles
+- Served as the project coordinator and lead the effort of developing efficient scheduling algorithms
+- Jointly optimized the task assignment [7], route planning, and charging decision schemes of airport ground vehicles
 
-*2020.09 – 2022.06*, **Cooperative Driving of Connected and Automated Vehicles  at Autonomous Traffic Intersections**
+*2020.08 – 2022.10*, **Automatic Control of Vehicular Systems with** **Reinforcement Learning in Mixed Autonomy Traffic Systems**
 
-- Served as the project leader and wrote the proposal independently for applying the Postgraduate Innovation Fund
-- Conducted research on trajectory planning [2,4], intersection control [1,3], and autonomous driving [5] algorithms
+- Trained a generalizable autonomous driving policy
+- Created a [wiki page](http://wiki.rl-transport.org/index.php/Main_Page) about RL for transportation
+
+*2020.09 – 2022.06*, **Cooperative Driving for Connected and Automated Vehicles (CAVs) at Traffic Intersections and Highways**
+
+- Wrote an effect proposal independently as the Principal Investigator and managed to secure the Postgraduate Innovation Fund
+- Conducted research on trajectory planning [3,5], intersection control [2,4], and autonomous driving [1] algorithms
+
