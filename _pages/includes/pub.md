@@ -60,18 +60,18 @@ IEEE Transactions on Vehicular Technology (**IEEE TVT**), 2022. [[pdf](https://d
 ## Ongoing Papers
 
 
-- [7] Lingling Lv, Zhiyun Deng, Chenyang Shao and Weiming Shen, <u>A Variable Neighborhood Search Algorithm for Airport Ferry Vehicle Scheduling Problems</u>. **To be submitted to** Transportation Research Part C: Emerging Technologies (**TR_C**).
+- [7] Lingling Lv, **Zhiyun Deng**, Chenyang Shao and Weiming Shen, <u>A Variable Neighborhood Search Algorithm for Airport Ferry Vehicle Scheduling Problems</u>. **To be submitted to** Transportation Research Part C: Emerging Technologies (**TR_C**).
 - [8] Shichen Tian, **Zhiyun Deng**, Jiaxin Fan, Liang Gao, Weiming Shen and Chunjiang Zhang, <u>A Variable Neighborhood Search Algorithm for Heat Pipe-Constrained Component Layout Optimization</u>. **To be submitted** to IEEE International Conference on Automation Science and Engineering (**IEEE CASE 2023**).
 
 ## Workshop Papers
 
-- [9] **Zhiyun Deng**, Wenbin Hu and Zhen He, <u>Path Planning for UAV Swarm Confrontation Task based on Ordinal Optimization</u>. **Oral Presentation** at an *Academic Conference on* *Intelligent Flight Control* organized by Nanjing University of Aeronautics and Astronautics (Nanjing, China).
-- [10] Zhiyun Deng, Xiaojie Li and Dahu Zhu, <u>A Shuffled Frog-Leaping Algorithm for Robot Scheduling in a Modular Reconfigurable Production System</u>. **Poster Presentation** at an *Academic Conference on Optimization and Scheduling* organized by HUST (Wuhan, China).
+- [9] **Zhiyun Deng**, Wenbin Hu and Zhen He, <u>Path Planning for UAV Swarm Confrontation Task based on Ordinal Optimization</u>. **Oral Presentation** at an Academic Conference on Intelligent Flight Control organized by Nanjing University of Aeronautics and Astronautics (Nanjing, China).
+- [10] **Zhiyun Deng**, Xiaojie Li and Dahu Zhu, <u>A Shuffled Frog-Leaping Algorithm for Robot Scheduling in a Modular Reconfigurable Production System</u>. **Poster Presentation** at an Academic Conference on Optimization and Scheduling organized by HUST (Wuhan, China).
 
 ## Dissertations
 
-- [11] **Zhiyun Deng**, Collaborative Control of Multi-Vehicle Systems at Autonomous Intersections without Signal Controllers (in Chinese), *Huazhong University of Science and Technology*, 2022. [[pdf](https://drive.google.com/file/d/1Aur_rO9KAjpYx-eI449DpAnd15ybJ_T7/view?usp=sharing)]
-- [12] **Zhiyun Deng**, Autonomous Intersection Management with Connected and Automated Vehicles (in Chinese), *Wuhan University of Technology*, 2020, **Outstanding Graduate Dissertation Award** (Top 1%).
+- [11] **Zhiyun Deng**, Collaborative Control of Multi-Vehicle Systems at Autonomous Intersections without Signal Controllers (in Chinese), Huazhong University of Science and Technology, 2022. [[pdf](https://drive.google.com/file/d/1Aur_rO9KAjpYx-eI449DpAnd15ybJ_T7/view?usp=sharing)]
+- [12] **Zhiyun Deng**, Autonomous Intersection Management with Connected and Automated Vehicles (in Chinese), Wuhan University of Technology, 2020, **Outstanding Graduate Dissertation Award** (Top 1%).
 
 # 📚 Projects
 
