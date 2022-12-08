@@ -2,8 +2,9 @@
 # 📝 Publications
 ## Highlight
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TASE</div><img src='images/TASE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TASE</div><img src='images/TASE.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [1] <u>LiDAR-based End-to-End Autonomous Driving at Unsignalized Intersections: Improving Generalization with Multi-Task Deep Reinforcement Learning</u>. **Zhiyun Deng**, Kaidi Yang, Weiming Shen and Yanjun Shi.
 
@@ -13,8 +14,9 @@
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/TITS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/TITS.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [2] [Cooperative Platoon Formation of Connected and Autonomous Vehicles: Towards Efficient Merging Coordination at Unsignalized Intersections](http://dx.doi.org/10.36227/techrxiv.21152128.v1). **Zhiyun Deng**, Kaidi Yang, Weiming Shen and Yanjun Shi.
 
@@ -24,9 +26,10 @@ IEEE Transactions on Intelligent Transportation Systems (**IEEE TITS**), Major R
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/TVT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/TVT.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [3] [A Coevolutionary Algorithm for Cooperative Platoon Formation of Connected and Automated Vehicles](https://doi.org/10.1109/TVT.2022.3196366). **Zhiyun Deng**, Jiaxin Fan, Yanjun Shi and Weiming Shen.
+
 
 IEEE Transactions on Vehicular Technology (**IEEE TVT**), 2022. [[pdf](https://drive.google.com/file/d/1SnhpVhkC7lbDXgH7hu3b5DdUolukAoS2/view?usp=sharing)]
 
@@ -34,9 +37,10 @@ IEEE Transactions on Vehicular Technology (**IEEE TVT**), 2022. [[pdf](https://d
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appied Sciences</div><img src='images/AS.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appied Sciences</div><img src='images/AS.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [4] [A Conflict Duration Graph-based Coordination Method for Connected and Automated Vehicles at Signal-Free Intersections](https://doi.org/10.3390/app10186223). **Zhiyun Deng**, Yanjun Shi, Qiaomei Han, Lingling Lv and Weiming Shen.
+
 
 **Applied Sciences**, 2020. [[pdf](https://drive.google.com/file/d/1bFJmYz6Lu616sU3As0XPJLELV5BxnAf7/view?usp=sharing)]
 
