@@ -8,7 +8,7 @@
 
 [1] <u>LiDAR-based End-to-End Autonomous Driving at Unsignalized Intersections: Improving Generalization with Multi-Task Deep Reinforcement Learning</u>. **Zhiyun Deng**, Kaidi Yang, Weiming Shen and Yanjun Shi.
 
-**To be Submitted** to IEEE Transactions on Automation Science and Engineering (**IEEE TASE**).
+To be Submitted to IEEE Transactions on Automation Science and Engineering (**IEEE TASE**). [[Testing Video](https://youtu.be/OO7CfIkhtgc)]
 
 - We employ deep RL to train a lidar-based end-to-end driving policy and enhanced its generalization ability with multi-task learning in a variety of traffic densities and road maps.
 
