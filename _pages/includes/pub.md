@@ -70,8 +70,8 @@ IEEE Transactions on Vehicular Technology (**IEEE TVT**), 2022. [[pdf](https://d
 
 ## Dissertations
 
-- [11] **Zhiyun Deng**, Collaborative Control of Multi-Vehicle Systems at Autonomous Intersections without Signal Controllers (in Chinese), Huazhong University of Science and Technology, 2022. [[pdf](https://drive.google.com/file/d/1Aur_rO9KAjpYx-eI449DpAnd15ybJ_T7/view?usp=sharing)]
-- [12] **Zhiyun Deng**, Autonomous Intersection Management with Connected and Automated Vehicles (in Chinese), Wuhan University of Technology, 2020, **Outstanding Graduate Dissertation Award** (Top 1%).
+- [11] **Zhiyun Deng**, <u>Collaborative Control of Multi-Vehicle Systems at Autonomous Intersections without Signal Controllers</u> (in Chinese), Master's Thesis, Huazhong University of Science and Technology, 2022. [[pdf](https://drive.google.com/file/d/1Aur_rO9KAjpYx-eI449DpAnd15ybJ_T7/view?usp=sharing)]
+- [12] **Zhiyun Deng**, <u>Autonomous Intersection Management with Connected and Automated Vehicles</u> (in Chinese), Bachelor's Thesis, Wuhan University of Technology, 2020, **Outstanding Graduate Dissertation Award** (Top 1%).
 
 # 📚 Projects
 
