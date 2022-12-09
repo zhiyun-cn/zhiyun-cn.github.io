@@ -7,14 +7,14 @@
 
 ### Scholarships:
 
-- [*2021.12*] **National Scholarship** (Top 1%), Ministry of Education of China
-- [*2021.11*] **First-Class Scholarship** (Top 10%), Huazhong University of Science and Technology
-- [*2020.11*] **First-Class Scholarship** (Top 10%), Huazhong University of Science and Technology
+- [*2021.12*] **National Scholarship** (Top 1%, ¥20,000), Ministry of Education of China
+- [*2021.11*] **First-Class Scholarship** (Top 10%, ¥10,000), Huazhong University of Science and Technology
+- [*2020.11*] **First-Class Scholarship** (Top 10%, ¥10,000), Huazhong University of Science and Technology
 
 ### Grants:
 
-- [*2021.04*] **Postgraduate Innovation Fund** (¥8,000 CNY), Huazhong University of Science and Technology
-- [*2018.04*] **Undergraduate Innovation Fund** (¥20,000 CNY), Wuhan University of Technology
+- [*2021.04*] **Postgraduate Innovation Fund** (¥8,000), Principal Investigator, Huazhong University of Science and Technology
+- [*2018.04*] **Undergraduate Innovation Fund** (¥20,000), Principal Investigator, Wuhan University of Technology
 
 ### Honors:
 
