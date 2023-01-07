@@ -22,7 +22,7 @@ To be Submitted to IEEE Transactions on Automation Science and Engineering (**IE
 
 [2] [Cooperative Platoon Formation of Connected and Autonomous Vehicles: Towards Efficient Merging Coordination at Unsignalized Intersections](http://dx.doi.org/10.36227/techrxiv.21152128.v1). **Zhiyun Deng**, Kaidi Yang, Weiming Shen and Yanjun Shi.
 
-IEEE Transactions on Intelligent Transportation Systems (**IEEE TITS**), Major Revision. Preprinted in TechRxiv [[pdf](https://drive.google.com/file/d/1oKjgK0-DlAXzzMre9kSWRE2R9v57gIy1/view?usp=sharing)]
+IEEE Transactions on Intelligent Transportation Systems (**IEEE TITS**), Accepted, 2023. [[pdf](https://drive.google.com/file/d/1oKjgK0-DlAXzzMre9kSWRE2R9v57gIy1/view?usp=sharing)]
 
 - We establishe a bi-level optimization model that can produce optimal platoon formation and traffic scheduling schemes with sub-second-level computational efficiency for real-life applications using the Constraint Programming technique. 
 
