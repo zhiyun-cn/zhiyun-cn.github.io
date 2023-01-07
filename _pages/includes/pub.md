@@ -61,7 +61,7 @@ IEEE Transactions on Vehicular Technology (**IEEE TVT**), 2022. [[pdf](https://d
 
 
 - [7] Lingling Lv, **Zhiyun Deng**, Chenyang Shao and Weiming Shen, <u>A Variable Neighborhood Search Algorithm for Airport Ferry Vehicle Scheduling Problems</u>. **To be submitted to** Transportation Research Part C: Emerging Technologies (**TR_C**).
-- [8] Shichen Tian, **Zhiyun Deng**, Jiaxin Fan, Liang Gao, Weiming Shen and Chunjiang Zhang, <u>A Variable Neighborhood Search Algorithm for Heat Pipe-Constrained Component Layout Optimization</u>. **To be submitted** to IEEE International Conference on Automation Science and Engineering (**IEEE CASE 2023**).
+- [8] Shichen Tian, **Zhiyun Deng**, Jiaxin Fan, Liang Gao, Weiming Shen and Chunjiang Zhang, <u>A Variable Neighborhood Search Algorithm for Heat Pipe-Constrained Component Layout Optimization</u>. **Submitted** to IEEE International Conference on Computer Supported Cooperative Work in Design (**IEEE CSCWD 2023**).
 
 ## Workshop Papers
 
