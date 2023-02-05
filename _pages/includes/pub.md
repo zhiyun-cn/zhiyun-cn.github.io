@@ -53,13 +53,13 @@ To be Submitted to IEEE Transactions on Automation Science and Engineering (**IE
 ## Conference Papers
 
 - [5] **Zhiyun Deng**, Jiaxin Fan, Yanjun Shi, and Weiming Shen, [Longitudinal Trajectory Optimization for Connected and Automated Vehicles by Evolving Cubic Splines with Coevolution](https://doi.org/10.1109/CSCWD54268.2022.9776058), IEEE 25th International Conference on Computer Supported Cooperative Work in Design (**IEEE CSCWD 2022**). [[pdf](https://drive.google.com/file/d/1KgleS-gtURu1VIos0_lyaJ0HwEI3lly1/view?usp=sharing)]
-- [6] Xianfeng Ye, **Zhiyun Deng**, Yanjun Shi, and Weiming Shen, <u>Towards Energy-Efficient Scheduling and Routing of Multiple AGVs with Multi-Agent Reinforcement Learning</u>. 4th International Conference on Industry 4.0 and Smart Manufacturing (**ISM 2022**), In Press. 
+- [6] Shichen Tian, **Zhiyun Deng**, Jiaxin Fan, Chunjiang Zhang, Weiming Shen, and Liang Gao, <u>A Variable Neighborhood Search Algorithm for Heat Pipe-Constrained Component Layout Optimization</u>.  IEEE 26th  International Conference on Computer Supported Cooperative Work in Design (**IEEE CSCWD 2023**). Accepted.
+- [7] Xianfeng Ye, **Zhiyun Deng**, Yanjun Shi, and Weiming Shen, <u>An Agent-based System Architecture for Automated Guided Vehicles in Cloud-Edge Computing Environments</u>.  IEEE 26th  International Conference on Computer Supported Cooperative Work in Design (**IEEE CSCWD 2023**). Accepted.
 
 ## Ongoing Papers
 
 
-- [7] Lingling Lv, **Zhiyun Deng**, Chenyang Shao, and Weiming Shen, <u>A Variable Neighborhood Search Algorithm for Airport Ferry Vehicle Scheduling Problems</u>. **To be submitted to** Transportation Research Part C: Emerging Technologies (**TR_C**).
-- [8] Shichen Tian, **Zhiyun Deng**, Jiaxin Fan, Chunjiang Zhang, Weiming Shen, and Liang Gao, <u>A Variable Neighborhood Search Algorithm for Heat Pipe-Constrained Component Layout Optimization</u>. **Submitted** to IEEE International Conference on Computer Supported Cooperative Work in Design (**IEEE CSCWD 2023**).
+- [8] Lingling Lv, **Zhiyun Deng**, Chenyang Shao, and Weiming Shen, <u>A Variable Neighborhood Search Algorithm for Airport Ferry Vehicle Scheduling Problems</u>. **To be submitted to** Transportation Research Part C: Emerging Technologies (**TR_C**).
 
 ## Workshop Papers
 
