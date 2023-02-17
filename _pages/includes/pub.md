@@ -18,11 +18,11 @@ To be Submitted to IEEE Transactions on Automation Science and Engineering (**IE
 <div class='paper-box-text' markdown="1">
 
 
-[2] [Cooperative Platoon Formation of Connected and Autonomous Vehicles: Towards Efficient Merging Coordination at Unsignalized Intersections](http://dx.doi.org/10.36227/techrxiv.21152128.v1). **Zhiyun Deng**, Kaidi Yang, Weiming Shen, and Yanjun Shi.
+[2] [Cooperative Platoon Formation of Connected and Autonomous Vehicles: Towards Efficient Merging Coordination at Unsignalized Intersections](https://ieeexplore.ieee.org/abstract/document/10021253). **Zhiyun Deng**, Kaidi Yang, Weiming Shen, and Yanjun Shi.
 
 **IEEE Transactions on Intelligent Transportation Systems** (IEEE TITS, IF: 9.551), In Press, 2023. [[pdf](https://drive.google.com/file/d/1HPxXMYAfmlVF3iyjFmJLwTdHiTM7q4b5/view?usp=sharing)]
 
-- We establishe a bi-level optimization model that can produce optimal platoon formation and traffic scheduling schemes with sub-second-level computational efficiency for real-life applications using the Constraint Programming technique. 
+- We establish a bi-level optimization model that can produce optimal platoon formation and traffic scheduling schemes with sub-second-level computational efficiency for real-life applications using the Constraint Programming technique. 
 
 </div></div>
 
@@ -59,7 +59,7 @@ To be Submitted to IEEE Transactions on Automation Science and Engineering (**IE
 ## Ongoing Papers
 
 
-- [8] Lingling Lv, **Zhiyun Deng**, Chenyang Shao, and Weiming Shen, <u>A Variable Neighborhood Search Algorithm for Airport Ferry Vehicle Scheduling Problems</u>. **To be submitted to** Transportation Research Part C: Emerging Technologies (**TR_C**).
+- [8] Lingling Lv, **Zhiyun Deng**, Chenyang Shao, and Weiming Shen, <u>A Variable Neighborhood Search Algorithm for Airport Ferry Vehicle Scheduling Problems</u>. **Submitted to** Transportation Research Part C: Emerging Technologies (**TR_C**).
 
 ## Workshop Papers
 
