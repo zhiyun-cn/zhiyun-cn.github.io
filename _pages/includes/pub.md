@@ -56,17 +56,18 @@
 
 
 - [8] Lingling Lv, **Zhiyun Deng**, Chenyang Shao, and Weiming Shen, <u>A Variable Neighborhood Search Algorithm for Airport Ferry Vehicle Scheduling Problems</u>. **Submitted to** Transportation Research Part C: Emerging Technologies (**TR_C**).
-- [9] Wei Liu, Min Hua, Zhiyun Deng, Yanjun Huang, Chuan Hu, Shunhui Song, Letian Gao, Changsheng Liu, Lu Xiong, and Xin Xia,  <u>A Systematic Survey of Control Techniques and Applications: From Autonomous Vehicles to Connected and Automated Vehicles<u>. **To be Submitted.**
+- [9] **Zhiyun Deng**, Yanjun Shi, and Weiming Shen, <u>LiDAR-based End-to-End Autonomous Driving at Unsignalized Intersections: Improving Generalization with Multi-Task Deep Reinforcement Learning</u>. **To be Submitted** to IEEE Transactions on Automation Science and Engineering (**IEEE TASE**).
+- [10] Wei Liu, Min Hua, **Zhiyun Deng**, Yanjun Huang, Chuan Hu, Shunhui Song, Letian Gao, Changsheng Liu, Lu Xiong, and Xin Xia,  <u>A Systematic Survey of Control Techniques and Applications: From Autonomous Vehicles to Connected and Automated Vehicles</u>. **To be Submitted.**
 
 ## Workshop Papers
 
-- [10] **Zhiyun Deng**, Wenbin Hu, and Zheng He, <u>Path Planning for UAV Swarm Confrontation Task based on Ordinal Optimization</u>. **Oral Presentation** at an Academic Conference on Intelligent Flight Control organized by Nanjing University of Aeronautics and Astronautics (Nanjing, China).
-- [11] **Zhiyun Deng**, Xiaojie Li, and Dahu Zhu, <u>A Shuffled Frog-Leaping Algorithm for Robot Scheduling in a Modular Reconfigurable Production System</u>. **Poster Presentation** at an Academic Conference on Optimization and Scheduling organized by HUST (Wuhan, China).
+- [11] **Zhiyun Deng**, Wenbin Hu, and Zheng He, <u>Path Planning for UAV Swarm Confrontation Task based on Ordinal Optimization</u>. **Oral Presentation** at an Academic Conference on Intelligent Flight Control organized by Nanjing University of Aeronautics and Astronautics (Nanjing, China).
+- [12] **Zhiyun Deng**, Xiaojie Li, and Dahu Zhu, <u>A Shuffled Frog-Leaping Algorithm for Robot Scheduling in a Modular Reconfigurable Production System</u>. **Poster Presentation** at an Academic Conference on Optimization and Scheduling organized by HUST (Wuhan, China).
 
 ## Dissertations
 
-- [12] **Zhiyun Deng**, <u>Collaborative Control of Multi-Vehicle Systems at Autonomous Intersections without Signal Controllers</u> (in Chinese), Master's Thesis, Huazhong University of Science and Technology, 2022. [[pdf](https://drive.google.com/file/d/1Aur_rO9KAjpYx-eI449DpAnd15ybJ_T7/view?usp=sharing)]
-- [13] **Zhiyun Deng**, <u>Autonomous Intersection Management with Connected and Automated Vehicles</u> (in Chinese), Bachelor's Thesis, Wuhan University of Technology, 2020, **Outstanding Graduate Dissertation Award** (Top 1%).
+- [13] **Zhiyun Deng**, <u>Collaborative Control of Multi-Vehicle Systems at Autonomous Intersections without Signal Controllers</u> (in Chinese), Master's Thesis, Huazhong University of Science and Technology, 2022. [[pdf](https://drive.google.com/file/d/1Aur_rO9KAjpYx-eI449DpAnd15ybJ_T7/view?usp=sharing)]
+- [14] **Zhiyun Deng**, <u>Autonomous Intersection Management with Connected and Automated Vehicles</u> (in Chinese), Bachelor's Thesis, Wuhan University of Technology, 2020, **Outstanding Graduate Dissertation Award** (Top 1%).
 
 # 📚 Projects
 
