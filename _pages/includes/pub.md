@@ -2,23 +2,11 @@
 # 📝 Publications
 ## Journal Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TASE</div><img src='images/TASE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-[1] <u>V2X-Lead: Lidar-based End-to-End Autonomous Driving with Vehicle-to-Everything Communication Integration</u>. **Zhiyun Deng**, Yanjun Shi, and Weiming Shen.
-
-**Submitted** to 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2023**). [[Testing Video](https://youtu.be/OO7CfIkhtgc)]
-
-- We utilize Vehicle-to-Everything (V2X) communication to enhance the safety and efficiency of an end-to-end autonomous driving agent trained by a reinforcement learning algorithm, particularly when the agent's vision is obstructed by other vehicles in mixed-autonomy traffic.
-
-</div></div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/TITS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-[2] [Cooperative Platoon Formation of Connected and Autonomous Vehicles: Towards Efficient Merging Coordination at Unsignalized Intersections](https://ieeexplore.ieee.org/abstract/document/10021253). **Zhiyun Deng**, Kaidi Yang, Weiming Shen, and Yanjun Shi.
+[1] [Cooperative Platoon Formation of Connected and Autonomous Vehicles: Towards Efficient Merging Coordination at Unsignalized Intersections](https://ieeexplore.ieee.org/abstract/document/10021253). **Zhiyun Deng**, Kaidi Yang, Weiming Shen, and Yanjun Shi.
 
 **IEEE Transactions on Intelligent Transportation Systems** (IEEE TITS, IF = 9.551), 2023. [[pdf](https://drive.google.com/file/d/1HPxXMYAfmlVF3iyjFmJLwTdHiTM7q4b5/view?usp=sharing)]
 
@@ -28,7 +16,8 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/TVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[3] [A Coevolutionary Algorithm for Cooperative Platoon Formation of Connected and Automated Vehicles](https://doi.org/10.1109/TVT.2022.3196366). **Zhiyun Deng**, Jiaxin Fan, Yanjun Shi, and Weiming Shen.
+[2] [A Coevolutionary Algorithm for Cooperative Platoon Formation of Connected and Automated Vehicles](https://doi.org/10.1109/TVT.2022.3196366). **Zhiyun Deng**, Jiaxin Fan, Yanjun Shi, and Weiming Shen.
+
 
 **IEEE Transactions on Vehicular Technology** (IEEE TVT, IF = 6.239), 2022. [[pdf](https://drive.google.com/file/d/1KnDymadz5cNbzZuH-KHVSnRQS9HIgnVW/view?usp=sharing)]
 
@@ -38,7 +27,8 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appied Sciences</div><img src='images/AS.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[4] [A Conflict Duration Graph-based Coordination Method for Connected and Automated Vehicles at Signal-Free Intersections](https://doi.org/10.3390/app10186223). **Zhiyun Deng**, Yanjun Shi, Qiaomei Han, Lingling Lv, and Weiming Shen.
+[3] [A Conflict Duration Graph-based Coordination Method for Connected and Automated Vehicles at Signal-Free Intersections](https://doi.org/10.3390/app10186223). **Zhiyun Deng**, Yanjun Shi, Qiaomei Han, Lingling Lv, and Weiming Shen.
+
 
 **Applied Sciences** (IF = 2.838), 2020. [[pdf](https://drive.google.com/file/d/1bFJmYz6Lu616sU3As0XPJLELV5BxnAf7/view?usp=sharing)]
 
@@ -46,42 +36,26 @@
 
 </div></div>
 
-## Conference Papers
+## Conference Paper
 
-- [5] **Zhiyun Deng**, Jiaxin Fan, Yanjun Shi, and Weiming Shen, [Longitudinal Trajectory Optimization for Connected and Automated Vehicles by Evolving Cubic Splines with Coevolution](https://doi.org/10.1109/CSCWD54268.2022.9776058), IEEE 25th International Conference on Computer Supported Cooperative Work in Design (**IEEE CSCWD 2022**). [[pdf](https://drive.google.com/file/d/1KgleS-gtURu1VIos0_lyaJ0HwEI3lly1/view?usp=sharing)]
-- [6] Xianfeng Ye, **Zhiyun Deng**, Yanjun Shi, and Weiming Shen, <u>An Agent-based System Architecture for Automated Guided Vehicles in Cloud-Edge Computing Environments</u>.  IEEE 26th  International Conference on Computer Supported Cooperative Work in Design (**IEEE CSCWD 2023**). Accepted.
-- [7] Shichen Tian, **Zhiyun Deng**, Jiaxin Fan, Chunjiang Zhang, Weiming Shen, and Liang Gao, <u>A Variable Neighborhood Search Algorithm for Heat Pipe-Constrained Component Layout Optimization</u>.  IEEE 26th  International Conference on Computer Supported Cooperative Work in Design (**IEEE CSCWD 2023**). Accepted.
+- [4] **Zhiyun Deng**, Jiaxin Fan, Yanjun Shi, and Weiming Shen, [Longitudinal Trajectory Optimization for Connected and Automated Vehicles by Evolving Cubic Splines with Coevolution](https://doi.org/10.1109/CSCWD54268.2022.9776058), IEEE 25th International Conference on Computer Supported Cooperative Work in Design (**IEEE CSCWD 2022**). [[pdf](https://drive.google.com/file/d/1KgleS-gtURu1VIos0_lyaJ0HwEI3lly1/view?usp=sharing)]
 
-## Ongoing Papers
+## Preprint
 
 
-- [8] Lingling Lv, **Zhiyun Deng**, Chenyang Shao, and Weiming Shen, <u>A Variable Neighborhood Search Algorithm for Airport Ferry Vehicle Scheduling Problems</u>. **Submitted to** Transportation Research Part C: Emerging Technologies (**TR_C**).
-- [9] **Zhiyun Deng**, Yanjun Shi, and Weiming Shen, <u>LiDAR-based End-to-End Autonomous Driving at Unsignalized Intersections: Improving Generalization with Multi-Task Deep Reinforcement Learning</u>. **To be Submitted** to IEEE Transactions on Automation Science and Engineering (**IEEE TASE**).
-- [10] Wei Liu, Min Hua, **Zhiyun Deng**, Yanjun Huang, Chuan Hu, Shunhui Song, Letian Gao, Changsheng Liu, Lu Xiong, and Xin Xia,  <u>A Systematic Survey of Control Techniques and Applications: From Autonomous Vehicles to Connected and Automated Vehicles</u>. **To be Submitted.**
-
-## Workshop Papers
-
-- [11] **Zhiyun Deng**, Wenbin Hu, and Zheng He, <u>Path Planning for UAV Swarm Confrontation Task based on Ordinal Optimization</u>. **Oral Presentation** at an Academic Conference on Intelligent Flight Control organized by Nanjing University of Aeronautics and Astronautics (Nanjing, China).
-- [12] **Zhiyun Deng**, Xiaojie Li, and Dahu Zhu, <u>A Shuffled Frog-Leaping Algorithm for Robot Scheduling in a Modular Reconfigurable Production System</u>. **Poster Presentation** at an Academic Conference on Optimization and Scheduling organized by HUST (Wuhan, China).
+- [5] Wei Liu, Min Hua, **Zhiyun Deng**, Yanjun Huang, Chuan Hu, Shunhui Song, Letian Gao, Changsheng Liu, Lu Xiong, and Xin Xia,  <u>A Systematic Survey of Control Techniques and Applications: From Autonomous Vehicles to Connected and Automated Vehicles</u>. **To be Submitted.**
 
 ## Dissertations
 
-- [13] **Zhiyun Deng**, <u>Collaborative Control of Multi-Vehicle Systems at Autonomous Intersections without Signal Controllers</u> (in Chinese), Master's Thesis, Huazhong University of Science and Technology, 2022. [[pdf](https://drive.google.com/file/d/1Aur_rO9KAjpYx-eI449DpAnd15ybJ_T7/view?usp=sharing)]
-- [14] **Zhiyun Deng**, <u>Autonomous Intersection Management with Connected and Automated Vehicles</u> (in Chinese), Bachelor's Thesis, Wuhan University of Technology, 2020, **Outstanding Graduate Dissertation Award** (Top 1%).
+- [6] **Zhiyun Deng**, <u>Collaborative Control of Multi-Vehicle Systems at Autonomous Intersections without Signal Controllers</u> (in Chinese), Master's Thesis, Huazhong University of Science and Technology, 2022.
+- [7] **Zhiyun Deng**, <u>Autonomous Intersection Management with Connected and Automated Vehicles</u> (in Chinese), Bachelor's Thesis, Wuhan University of Technology, 2020.
 
 # 📚 Projects
 
-*2020.09 – 2022.06*, **Cooperative Driving for Connected and Automated Vehicles (CAVs) at Traffic Intersections and Highways**
+*2020.09 – 2022.06*, **Cooperative Driving for Connected and Automated Vehicles at Traffic Intersections and Highways**
 
-- Wrote an effect proposal independently as the Principal Investigator and managed to secure the Postgraduate Innovation Fund
-- Conducted research on trajectory planning [3,5], intersection control [2,4], and autonomous driving [1] algorithms
+- Conducted research on intersection control [1,3] and trajectory planning [2,4] algorithms
 
-*2020.08 – 2022.10*, **Automatic Control of Vehicular Systems with** **Reinforcement Learning in Mixed Autonomy Traffic Systems**
+*2022.07 – 2022.12*, **Dynamic Routing and Scheduling of Airport Buses at Hangzhou International Airport**
 
-- Trained a generalizable autonomous driving policy
-- Created a [wiki page](http://wiki.rl-transport.org/index.php/Main_Page) about RL for transportation
-
-*2022.07 – 2022.12*, **Dynamic Routing and Scheduling of Airport Ground Traffic at Hangzhou International Airport**
-
-- Served as the project coordinator and lead the effort of developing efficient scheduling algorithms
-- Jointly optimized the task assignment [7], route planning, and charging decision schemes of airport ground vehicles
+- Jointly optimized the task assignment, route planning, and charging decision schemes of airport ground vehicles
