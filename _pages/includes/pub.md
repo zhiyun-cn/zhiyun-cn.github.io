@@ -43,7 +43,7 @@
 ## Preprint
 
 
-- [5] Wei Liu, Min Hua, **Zhiyun Deng**, Yanjun Huang, Chuan Hu, Shunhui Song, Letian Gao, Changsheng Liu, Lu Xiong, and Xin Xia,  <u>A Systematic Survey of Control Techniques and Applications: From Autonomous Vehicles to Connected and Automated Vehicles</u>. Preprinted on arXiv.  [[Link](https://arxiv.org/abs/2303.05665)]
+- [5] Wei Liu, Min Hua, **Zhiyun Deng**, Yanjun Huang, Chuan Hu, Shunhui Song, Letian Gao, Changsheng Liu, Lu Xiong, and Xin Xia,  [A Systematic Survey of Control Techniques and Applications: From Autonomous Vehicles to Connected and Automated Vehicles](https://arxiv.org/abs/2303.05665). Preprinted on arXiv.
 
 ## Dissertations
 
