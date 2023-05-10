@@ -10,7 +10,7 @@
 
 **IEEE Transactions on Intelligent Transportation Systems** (IEEE TITS, IF = 9.551), 2023. [[pdf](https://drive.google.com/file/d/1HPxXMYAfmlVF3iyjFmJLwTdHiTM7q4b5/view?usp=sharing)]
 
-- We establish a bi-level optimization model that can produce optimal platoon formation and traffic scheduling schemes with sub-second-level computational efficiency for real-life applications using the Constraint Programming technique.
+- Proposed a bi-level optimization method that can jointly optimize the passing sequences and trajectories of vehicles at traffic intersections, effectively enhancing the safety of vehicle interaction and improving overall traffic efficiency.
 
 </div></div>
 
@@ -21,7 +21,7 @@
 
 **IEEE Transactions on Vehicular Technology** (IEEE TVT, IF = 6.239), 2022. [[pdf](https://drive.google.com/file/d/1KnDymadz5cNbzZuH-KHVSnRQS9HIgnVW/view?usp=sharing)]
 
-- We propose a parallel coevolutionary algorithm that evolves the configuration of each knot simultaneously, thus generating dynamically feasible trajectories and reducing the overall energy consumption of multiple EVs in a platoon.
+- Developed a trajectory planning method that reduced fuel consumption for platoons of vehicles (where vehicles travel closely together in a group, like a virtual train) on highways, enabling more eco-friendly and cost-effective transportation.
 
 </div></div>
 
@@ -32,7 +32,7 @@
 
 **Applied Sciences** (IF = 2.838), 2020. [[pdf](https://drive.google.com/file/d/1bFJmYz6Lu616sU3As0XPJLELV5BxnAf7/view?usp=sharing)]
 
-- We develop a spatio-temporal trajectory planning algorithm based on scheduling theory to address the collision avoidance issues and demonstrate its effectiveness and high computational efficiency in a micro-simulation platform.
+- Developed a trajectory planning method that prioritized passenger comfort by minimizing the number of sudden stops and starts at traffic intersections, resulting in a more pleasant and enjoyable travel experience.
 
 </div></div>
 
@@ -43,7 +43,7 @@
 ## Preprint
 
 
-- [5] Wei Liu, Min Hua, **Zhiyun Deng**, Yanjun Huang, Chuan Hu, Shunhui Song, Letian Gao, Changsheng Liu, Lu Xiong, and Xin Xia,  <u>A Systematic Survey of Control Techniques and Applications: From Autonomous Vehicles to Connected and Automated Vehicles</u>. **To be Submitted.**
+- [5] Wei Liu, Min Hua, **Zhiyun Deng**, Yanjun Huang, Chuan Hu, Shunhui Song, Letian Gao, Changsheng Liu, Lu Xiong, and Xin Xia,  <u>A Systematic Survey of Control Techniques and Applications: From Autonomous Vehicles to Connected and Automated Vehicles</u>. Preprinted on arXiv.  [[Link](https://arxiv.org/abs/2303.05665)]
 
 ## Dissertations
 

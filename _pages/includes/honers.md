@@ -1,9 +1,5 @@
 # 🏆 Honors and Awards
 
-### Competition:
-
-- [*2018.11*] **National First Prize**, Undergraduate Mathematical Contest in Modeling, Ministry of Education of China
-
 ### Scholarships:
 
 - [*2021.12*] **National Scholarship**, Ministry of Education of China
