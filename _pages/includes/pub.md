@@ -22,6 +22,8 @@
 
 - Proposed a bi-level optimization method that can jointly optimize the passing sequences and trajectories of vehicles at traffic intersections, effectively enhancing the safety of vehicle interaction and improving overall traffic efficiency.
 
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/TVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
