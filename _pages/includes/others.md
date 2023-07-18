@@ -15,8 +15,3 @@
 
 - IEEE CSCWD 2021 - 2022
 
-### Memberships
-
-- IEEE Student Member, 2020 - present
-- SAE Student Member, 2020 - present
-

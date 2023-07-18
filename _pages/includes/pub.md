@@ -2,8 +2,11 @@
 # 📝 Publications
 ## Journal Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/TITS.png' alt="sym" width="100%"></div></div>
+## 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2023</div><img src='images/IROS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 
 [1] [Cooperative Platoon Formation of Connected and Autonomous Vehicles: Towards Efficient Merging Coordination at Unsignalized Intersections](https://ieeexplore.ieee.org/abstract/document/10021253). **Zhiyun Deng**, Kaidi Yang, Weiming Shen, and Yanjun Shi.
@@ -14,9 +17,23 @@
 
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/TITS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+[2] [Cooperative Platoon Formation of Connected and Autonomous Vehicles: Towards Efficient Merging Coordination at Unsignalized Intersections](https://ieeexplore.ieee.org/abstract/document/10021253). **Zhiyun Deng**, Kaidi Yang, Weiming Shen, and Yanjun Shi.
+
+**IEEE Transactions on Intelligent Transportation Systems** (IEEE TITS, IF = 9.551), 2023. [[pdf](https://drive.google.com/file/d/1HPxXMYAfmlVF3iyjFmJLwTdHiTM7q4b5/view?usp=sharing)]
+
+- Proposed a bi-level optimization method that can jointly optimize the passing sequences and trajectories of vehicles at traffic intersections, effectively enhancing the safety of vehicle interaction and improving overall traffic efficiency.
+
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/TVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[2] [A Coevolutionary Algorithm for Cooperative Platoon Formation of Connected and Automated Vehicles](https://doi.org/10.1109/TVT.2022.3196366). **Zhiyun Deng**, Jiaxin Fan, Yanjun Shi, and Weiming Shen.
+[3] [A Coevolutionary Algorithm for Cooperative Platoon Formation of Connected and Automated Vehicles](https://doi.org/10.1109/TVT.2022.3196366). **Zhiyun Deng**, Jiaxin Fan, Yanjun Shi, and Weiming Shen.
+
 
 
 **IEEE Transactions on Vehicular Technology** (IEEE TVT, IF = 6.239), 2022. [[pdf](https://drive.google.com/file/d/1KnDymadz5cNbzZuH-KHVSnRQS9HIgnVW/view?usp=sharing)]
@@ -27,7 +44,8 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appied Sciences</div><img src='images/AS.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[3] [A Conflict Duration Graph-based Coordination Method for Connected and Automated Vehicles at Signal-Free Intersections](https://doi.org/10.3390/app10186223). **Zhiyun Deng**, Yanjun Shi, Qiaomei Han, Lingling Lv, and Weiming Shen.
+[4] [A Conflict Duration Graph-based Coordination Method for Connected and Automated Vehicles at Signal-Free Intersections](https://doi.org/10.3390/app10186223). **Zhiyun Deng**, Yanjun Shi, Qiaomei Han, Lingling Lv, and Weiming Shen.
+
 
 
 **Applied Sciences** (IF = 2.838), 2020. [[pdf](https://drive.google.com/file/d/1bFJmYz6Lu616sU3As0XPJLELV5BxnAf7/view?usp=sharing)]
@@ -38,12 +56,7 @@
 
 ## Conference Paper
 
-- [4] **Zhiyun Deng**, Jiaxin Fan, Yanjun Shi, and Weiming Shen, [Longitudinal Trajectory Optimization for Connected and Automated Vehicles by Evolving Cubic Splines with Coevolution](https://doi.org/10.1109/CSCWD54268.2022.9776058), IEEE 25th International Conference on Computer Supported Cooperative Work in Design (**IEEE CSCWD 2022**). [[pdf](https://drive.google.com/file/d/1KgleS-gtURu1VIos0_lyaJ0HwEI3lly1/view?usp=sharing)]
-
-## Preprint
-
-
-- [5] Wei Liu, Min Hua, **Zhiyun Deng**, Yanjun Huang, Chuan Hu, Shunhui Song, Letian Gao, Changsheng Liu, Lu Xiong, and Xin Xia,  [A Systematic Survey of Control Techniques and Applications: From Autonomous Vehicles to Connected and Automated Vehicles](https://arxiv.org/abs/2303.05665). Preprinted on arXiv.
+- [5] **Zhiyun Deng**, Jiaxin Fan, Yanjun Shi, and Weiming Shen, [Longitudinal Trajectory Optimization for Connected and Automated Vehicles by Evolving Cubic Splines with Coevolution](https://doi.org/10.1109/CSCWD54268.2022.9776058), IEEE 25th International Conference on Computer Supported Cooperative Work in Design (**IEEE CSCWD 2022**). [[pdf](https://drive.google.com/file/d/1KgleS-gtURu1VIos0_lyaJ0HwEI3lly1/view?usp=sharing)]
 
 ## Dissertations
 
