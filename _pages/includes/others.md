@@ -10,8 +10,12 @@
 
 ### **Reviewer:**
 
-- IEEE Transactions on Vehicular Technology 2022 – present
-- SAE WCX™ 2022 - present
+- IEEE Transactions on Vehicular Technology (IEEE TVT)
+- IET Intelligent Transport Systems (IET ITS)
+- IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+- SAE International’s WCX™ World Congress Experience (WCX)
 
-- IEEE CSCWD 2021 - 2022
+### **Teaching Assistant:**
+
+- Electronic Circuit Design and Simulation, HUST (Fall 2020, Spring 2020, Fall 2021, Spring 2021)
 
