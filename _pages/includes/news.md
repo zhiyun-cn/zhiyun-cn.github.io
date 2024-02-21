@@ -1,4 +1,6 @@
 # 🔥 News
-- *2023.07*: 🎉🎉🎉 One paper is accepted by Transportation Research Part C: Emerging Technologies (TR_C)!
-- *2023.06*: 🎉🎉🎉 One paper is accepted by 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)! Looking forward to see you in person in Detroit!
-- *2023.05*: 📣📣📣 I presented a talk at the National Graduate Academic Forum on Intelligent Electric Vehicles, which was held in conjunction with the 710th Doctoral Academic Forum at Tsinghua University.
+- *February 2024*: 🏆 **Graduate Student Assembly Travel Award/Scholarship** - Honored to be one of the 16 recipients across all UT graduate students this year. A big thank you to the selection committee for acknowledging my research efforts and dedication. Hook 'Em!
+- *October 2023*: 🏅 **Professional Development Award** from UT Austin Graduate School: Grateful for this recognition and the support towards my professional growth.
+- *October 2023*: 🗣 **Oral Presentation at IROS 2023** - Delighted to present my V2X-Lead paper in Detroit and to receive the **IROS 2023 Travel Grant**. My heartfelt thanks to the IROS committee for their encouragement and backing.
+- *August 2023*: 💡 **UT Austin Engineering Fellowship** - Received with gratitude. Thank you, Cockrell School of Engineering and UT Graduate School, for supporting my research endeavors during my PhD journey.
+- *August 2023*: 🛬 **Starting My PhD Journey** - Safely arrived in Austin, ready to embark on my PhD at UT. Excited to be part of this vibrant campus and to collaborate with esteemed faculty members and students.
