@@ -62,14 +62,25 @@
 
 # 📚 Projects
 
-*2020.09 – 2022.06*, **Cooperative Driving for Connected and Automated Vehicles at Traffic Intersections and Highways**
+*2024.01 – present*, **Visual Representaion Learning for Terrain-Aware Off-Road Navigation**
 
-- Conducted research on intersection control and trajectory planning algorithms
+*2023.08 – present*, **Human-Robot Interaction (HRI) Data Modeling and Curation**
 
-*2022.07 – 2022.12*, **Dynamic Routing and Scheduling of Airport Buses at Hangzhou International Airport**
+- Design a generalizable robotics data model across various research projects and implement it in a NEO4J graph database, hosted on Texas Advanced Computing Center's cloud service with high performance computing and storage capabilities to enhance convergence and data utilization.
+- Analyze data using machine learning techniques in Python to uncover patterns, trends, and relationships, employing statistical analysis and data visualization to formulate hypotheses and derive insights in robotics research.
 
-- Jointly optimized the task assignment, route planning, and charging decision schemes of airport ground vehicles
+*2023.08 – 2023.12*, **Learning Bird’s-Eye-View (BEV) Representation for Mobile Robots Navigation**
 
-*2023.01 – 2023.06*, **Energy-Efficient Scheduling of Automated Storage & Retrieval Systems in Stereoscopic Warehouse**
+- Utilize spatiotemporal transformers to project 2D camera images into 3D BEV representations, implementing spatial cross-attention for enhanced multi-view feature extraction and temporal self-attention for the integration of historical BEV data.
+- Implement a vision-lidar sensor fusion framework integrating Swin Transformer and VoxelNet, and utilizing a Feature Pyramid Network for multi-scale and multimodal features fusion, which preserves essential geometric and semantic information.
 
-- Jointly optimized the **task assignment**, **storage allocation**, and **route planning** schemes of multishuttle
+*2023.08 – 2023.12*, **Hierarchical and Multi-Task Imitation Learning for Manipulation**
+
+- Implement hierarchical mitation learning to train robot policies from human demonstrations using camera images as input.
+- Integrate an inverse dynamics model for converting task-space commands into precise joint-torque actuations for manipulators.
+- Explore multi-task imitation learning approaches to incorporate multiple manipulation tasks into a unified policy network, employing network pruning techniques to prevent catastrophic forgetting and refine overall performance.
+
+*2020.09 – 2022.06*, **Collaborative Control of Connected and Autonomous Vehicles (CAVs)**
+
+- Formulated an integrated optimization model for traffic scheduling and trajectory planning, coordinating the motion of multiple CAVs at challenging driving scenarios like unsignalized intersections, enhancing overall traffic efficiency.
+- Developed a lidar-based end-to-end autonomous driving framework that utilizes vehicle-to-everything communication to boost safety and efficiency in mixed-autonomy traffic, employing reinforcement learning algorithms for policy training.
