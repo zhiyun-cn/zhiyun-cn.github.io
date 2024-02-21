@@ -6,10 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhiyun Deng | 邓植云"
-description              : "Graduate Research Assistant at\n
-  Huazhong University of Science and Technology.\n
-  Focusing on the operation of future autonomous mobility systems enabled by Connected and Automated Vehicles."
+title                    : "Zhiyun Deng"
+description              : "PhD Student at\n
+  The University of Texas at Austin."
 repository               : "zhiyun-cn/zhiyun-cn.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,13 +28,13 @@ author:
   name             : "Zhiyun Deng"
   avatar           : "images/profile-big.png"
   bio              : # "Sea AI Lab"
-  location         : "Wuhan, China"
+  location         : "Austin, TX, United States"
   employer         :
   pubmed           :
   email            : "zydeng@ieee.org"
-  linkedin         : "zydeng-cn"
+  linkedin         : "zdeng-utexas"
   researchgate     : "https://www.researchgate.net/profile/Zhiyun-Deng"
-  googlescholar    : "https://scholar.google.com/citations?user=vOJW_T4AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=WuPFqawAAAAJ&hl=en&oi=ao"
   uri              :
   bitbucket        :
   codepen          :
