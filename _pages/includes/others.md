@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2023.08 – 2028.05 (expected)*, **Ph.D. in Mechanical Engineering and Robotics**, [The University of Texas at Austin](https://www.utexas.edu/), Austin, United States.
+- *2023.08 – 2028.05 (expected)*, **Ph.D. in Mechanical Engineering  (Robotics)**, [The University of Texas at Austin](https://www.utexas.edu/), Austin, United States.
 - *2020.09 – 2022.06*, **M.Sc. in Mechanical Engineering**, [Huazhong University of Science and Technology](http://english.hust.edu.cn), Wuhan, China.
 - *2016.09 – 2020.06*, **B.Eng. in Automotive Engineering**, [Wuhan University of Technology](http://english.whut.edu.cn), Wuhan, China.
 
