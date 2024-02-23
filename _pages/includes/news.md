@@ -2,5 +2,5 @@
 - *February 2024*: 🏆 **Graduate Student Assembly Travel Award** - Honored to be one of the 16 recipients across all UT graduate students this year. A big thank you to the selection committee for acknowledging my research efforts and dedication. Hook 'Em!
 - *October 2023*: 🏅 **Professional Development Award** from UT Austin Graduate School: Grateful for this recognition and the support towards my professional growth.
 - *October 2023*: 🗣 **Oral Presentation at IROS 2023** - Delighted to present my V2X-Lead paper in Detroit and to receive the **IROS 2023 Travel Grant**. My heartfelt thanks to the IROS committee for their encouragement and backing.
-- *August 2023*: 💡 **UT Austin Engineering Fellowship** - Received with gratitude. Thank you, Cockrell School of Engineering and UT Graduate School, for supporting my research endeavors during my PhD journey.
+- *August 2023*: 💡 **UT Austin School of Engineering (SoE) Fellowship** - Received with gratitude. Thank you, Cockrell School of Engineering and Graduate School, for supporting my research endeavors during my PhD journey.
 - *August 2023*: 🛬 **Starting My PhD Journey** - Safely arrived in Austin, ready to embark on my PhD at UT. Excited to be part of this vibrant campus and to collaborate with esteemed faculty members and students.
