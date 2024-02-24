@@ -62,17 +62,13 @@
 
 # 📚 Projects
 
-*2024.01 – present*, **Visual Representaion Learning for Terrain-Aware Off-Road Navigation**
+*2024.01 – present*, **Visual Representation Learning for Terrain-Aware Off-Road Navigation**
+
+- To be updated.
 
 *2023.08 – present*, **Human-Robot Interaction (HRI) Data Modeling and Curation**
 
-- Design a generalizable robotics data model across various research projects and implement it in a NEO4J graph database, hosted on Texas Advanced Computing Center's cloud service with high performance computing and storage capabilities to enhance convergence and data utilization.
-- Analyze data using machine learning techniques in Python to uncover patterns, trends, and relationships, employing statistical analysis and data visualization to formulate hypotheses and derive insights in robotics research.
-
-*2023.08 – 2023.12*, **Learning Bird’s-Eye-View (BEV) Representation for Mobile Robots Navigation**
-
-- Utilize spatiotemporal transformers to project 2D camera images into 3D BEV representations, implementing spatial cross-attention for enhanced multi-view feature extraction and temporal self-attention for the integration of historical BEV data.
-- Implement a vision-lidar sensor fusion framework integrating Swin Transformer and VoxelNet, and utilizing a Feature Pyramid Network for multi-scale and multimodal features fusion, which preserves essential geometric and semantic information.
+- Design a generalizable robotics data model across various research projects and implement it in a NEO4J graph database, hosted on Texas Advanced Computing Center (TACC)'s cloud service with high performance computing and storage capabilities to enhance convergence and data utilization.
 
 *2023.08 – 2023.12*, **Hierarchical and Multi-Task Imitation Learning for Manipulation**
 
